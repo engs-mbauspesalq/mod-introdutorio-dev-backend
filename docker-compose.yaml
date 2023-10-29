@@ -1,0 +1,12 @@
+version: "3.4"
+
+services:
+  dev-backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - "./aula1:/aula1"
+    ports:
+      - "8000:8000"
+      - "4000:4000"
