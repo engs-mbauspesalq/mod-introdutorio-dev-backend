@@ -8,7 +8,7 @@ docker-compose up -d --build
 
 ## Visual Studio Code
 
-> Caso já tenha o Visual Studio Code instalado em seu sistema operacional, não é necessário seguir os passos abaixo!
+> Caso já tenha o Visual Studio Code instalado em seu sistema operacional, não é necessário seguir os passos abaixo
 
 Aqui estão as instruções para instalar o Visual Studio Code (VSCode) em diferentes sistemas operacionais.
 
